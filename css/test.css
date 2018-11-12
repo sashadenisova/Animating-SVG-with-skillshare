@@ -1,6 +1,7 @@
 .foo{
 	height: 1000px;
-	margin-top: -200px
+	margin-top: -200px;
+	margin-left: -400px;
 }
 .st1{
 	animation-name: bounce;
