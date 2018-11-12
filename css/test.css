@@ -1,0 +1,14 @@
+.foo{
+	height: 1000px;
+	margin-top: -200px
+}
+.st1{
+	animation-name: bounce;
+	animation-duration: 1s;
+	animation-iteration-count: infinite; 
+}
+@keyframes bounce {
+	30% {
+		transform: translateY(-25px);
+	}
+}
